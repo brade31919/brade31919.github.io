@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Electrical Engineering, National Tsing Hua University, 2012
+<table class="table table-hover">
+    <tr>
+        <td class="col-md-1"><div><img src="http://brade31919.github.io/images/NTHU-logo.png" class="img-circle imgb" height="50"></a></td>
+    </tr>
+</table>
 
 Work experience
 ======
