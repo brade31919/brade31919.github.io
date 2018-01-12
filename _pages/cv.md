@@ -12,13 +12,14 @@ redirect_from:
 Education
 ======
 #### National Tsing Hua University
-* B.S. in Electrical Engineering, Sep. 2013 - Jun. 2017</br>
- Advised by Prof. [Min Sun](http://aliensunmin.github.io/) 
+* B.S. in Electrical Engineering, Sep. 2013 - Jun. 2017
+  
+  Advised by Prof. [Min Sun](http://aliensunmin.github.io/) 
 
 
 Work experience
 ======
-#### Vision Science Lab, NTHU
+## Vision Science Lab, NTHU
 * Research Assistant (Sep. 2015 - Present)
   * Advisor: Prof. [Min Sun](http://aliensunmin.github.io/) 
   * Projects:
@@ -26,13 +27,13 @@ Work experience
     * Unsupervised domain adaptation of streetview segmentation. (Mar. 2016 - Dec. 2016)
     * Monocular dashcam camera video analysis. (Sep. 2015 - Feb. 2016)
 
-#### Academia Sinica
+## Academia Sinica
 * Research Assistant (Mar. 2017 - Oct. 2017)
   * Plan Host: [Chu-Song, Chen](http://www.iis.sinica.edu.tw/pages/song/), Advisor: [Min Sun](http://aliensunmin.github.io/)
   * Projects:
     * Omnidirectional CNN on visual place recognition and navigation
     
-#### Mediatek
+## Mediatek
 * Research Internship (Jul. 2016 - Jun. 2017)
   * Manager: Yu-Pao, Tsai, Mentor: Chia-Ping, Chen
   * Projects: 
@@ -43,11 +44,14 @@ Work experience
   
 Skills
 ======
-* Programming Languages:</br>
+* Programming Languages:
+
   C/C++, C#, Python, Matlab
 * Deep learning frameworks:</br>
+
   Tensorflow, Pytorch, Caffe
 * Engineering Tools:
+
   HSPICE, Verilog, Unity game engine
 
 Publications

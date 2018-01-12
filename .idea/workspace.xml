@@ -63,8 +63,8 @@
             <state relative-caret-position="-2700">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1515768815454" expanded="false" signature="3836:3846" ph="..." />
-                <marker date="1515768815454" expanded="true" signature="13801:14187" ph="..." />
+                <marker date="1515769401672" expanded="false" signature="3836:3846" ph="..." />
+                <marker date="1515769401672" expanded="true" signature="11064:11450" ph="..." />
               </folding>
             </state>
           </provider>
@@ -87,8 +87,8 @@
         <entry file="file://$PROJECT_DIR$/_pages/cv.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="392">
-                <caret line="41" column="4" lean-forward="false" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+              <first_editor relative-caret-position="86">
+                <caret line="21" column="2" lean-forward="false" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -469,7 +469,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1515768815450" expanded="false" signature="3936:3946" ph="..." />
+            <marker date="1515769401668" expanded="false" signature="3936:3946" ph="..." />
           </folding>
         </state>
       </provider>
@@ -479,7 +479,7 @@
         <state relative-caret-position="-2160">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1515768815454" expanded="false" signature="3860:3870" ph="..." />
+            <marker date="1515769401672" expanded="false" signature="3860:3870" ph="..." />
           </folding>
         </state>
       </provider>
@@ -654,8 +654,8 @@
         <state relative-caret-position="-2700">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1515768815454" expanded="false" signature="3836:3846" ph="..." />
-            <marker date="1515768815454" expanded="true" signature="13801:14187" ph="..." />
+            <marker date="1515769401672" expanded="false" signature="3836:3846" ph="..." />
+            <marker date="1515769401672" expanded="true" signature="11064:11450" ph="..." />
           </folding>
         </state>
       </provider>
@@ -663,8 +663,8 @@
     <entry file="file://$PROJECT_DIR$/_pages/cv.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="392">
-            <caret line="41" column="4" lean-forward="false" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+          <first_editor relative-caret-position="86">
+            <caret line="21" column="2" lean-forward="false" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
             <folding />
           </first_editor>
           <second_editor />
