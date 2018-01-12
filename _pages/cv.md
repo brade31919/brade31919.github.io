@@ -12,11 +12,31 @@ redirect_from:
 Education
 ======
 * B.S. in Electrical Engineering, National Tsing Hua University, 2012
-<table class="table table-hover">
-    <tr>
-        <td class="col-md-1"><div><img src="http://brade31919.github.io/images/NTHU-logo.png" class="img-circle imgb" height="50"></a></td>
-    </tr>
-</table>
+<div class="container">
+    <div class="row" style="margin-top: 2%" id="pubs">
+      <h4>education</h4>
+        <table class="table table-hover">
+          <tr>
+            <td class="col-md-1"><div><img src="http://jameschuanggg.github.io/images/profile/uot.png" class="img-circle imgb" height="50"></a></td>
+            <td class="col-md-3">Aug 2017 - Present</td>
+            <td>
+                <strong>Visiting Student in Computer Science</strong>
+                <br />
+              University of Toronto
+            </td>
+          </tr>
+          <tr>
+            <td class="col-md-1"><div><img src="http://jameschuanggg.github.io/images/profile/nthu.png" class="img-circle imgb" height="50"></a></td>
+            <td class="col-md-3">Aug 2013 - May 2017</td>
+            <td>
+                <strong>B.S. in Electrical Engineering</strong>
+                <br />
+              National Tsing Hua University
+            </td>
+          </tr>
+        </table>
+    </div>
+  </div>
 
 Work experience
 ======
