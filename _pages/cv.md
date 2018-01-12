@@ -11,69 +11,48 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical Engineering, National Tsing Hua University, 2012
-<div class="container">
-    <div class="row" style="margin-top: 2%" id="pubs">
-      <h4>education</h4>
-        <table class="table table-hover">
-          <tr>
-            <td class="col-md-1"><div><img src="http://jameschuanggg.github.io/images/profile/uot.png" class="img-circle imgb" height="50"></a></td>
-            <td class="col-md-3">Aug 2017 - Present</td>
-            <td>
-                <strong>Visiting Student in Computer Science</strong>
-                <br />
-              University of Toronto
-            </td>
-          </tr>
-          <tr>
-            <td class="col-md-1"><div><img src="http://jameschuanggg.github.io/images/profile/nthu.png" class="img-circle imgb" height="50"></a></td>
-            <td class="col-md-3">Aug 2013 - May 2017</td>
-            <td>
-                <strong>B.S. in Electrical Engineering</strong>
-                <br />
-              National Tsing Hua University
-            </td>
-          </tr>
-        </table>
-    </div>
-  </div>
+#### National Tsing Hua University
+* B.S. in Electrical Engineering, Sep. 2013 - Jun. 2017</br>
+ Advised by Prof. [Min Sun](http://aliensunmin.github.io/) 
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+#### Vision Science Lab, NTHU
+* Research Assistant (Sep. 2015 - Present)
+  * Advisor: Prof. [Min Sun](http://aliensunmin.github.io/) 
+  * Projects:
+    * Learning from human liquid pouring demonstration. (Aug. 2017 - Nov. 2017)
+    * Unsupervised domain adaptation of streetview segmentation. (Mar. 2016 - Dec. 2016)
+    * Monocular dashcam camera video analysis. (Sep. 2015 - Feb. 2016)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+#### Academia Sinica
+* Research Assistant (Mar. 2017 - Oct. 2017)
+  * Plan Host: [Chu-Song, Chen](http://www.iis.sinica.edu.tw/pages/song/), Advisor: [Min Sun](http://aliensunmin.github.io/)
+  * Projects:
+    * Omnidirectional CNN on visual place recognition and navigation
+    
+#### Mediatek
+* Research Internship (Jul. 2016 - Jun. 2017)
+  * Manager: Yu-Pao, Tsai, Mentor: Chia-Ping, Chen
+  * Projects: 
+    * Instance-aware semantic segmentation in common objects.
+    * Applications of generative adversarial networks in general denoising and super-resolution.
+    * Weakly supervised object detection using reinforcement learning.
+    
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages:</br>
+  C/C++, C#, Python, Matlab
+* Deep learning frameworks:</br>
+  Tensorflow, Pytorch, Caffe
+* Engineering Tools:
+  HSPICE, Verilog, Unity game engine
 
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
