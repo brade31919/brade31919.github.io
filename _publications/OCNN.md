@@ -6,7 +6,7 @@ excerpt: 'This work is about combining omnidirectional visual perception and dee
 date: 2018-01-12
 venue: 'International Conference on Robotics and Automation (ICRA)'
 paperurl: 
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Hung-Jui Huang*, Tsun-Hsuan Wang*, Juan-Ting Lin, Chan-Wei Hu, Kuo-Hao Zeng, Min Sun &quot; Omnidirectional CNN for Visual Place Recognition and Navigation&quot; <i>International Conference on Robotics and Automation (ICRA), 2018</i>.'
 ---
 This This work is about combining omnidirectional visual perception and deep metric learning in indoor visual place recognition and navigation.
 
